@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+distilbert-ner/
+lstm_model.pt
+bilstm_model.pt
+bilstm_crf_model.pt
