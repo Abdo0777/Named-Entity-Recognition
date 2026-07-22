@@ -72,7 +72,7 @@ Open that link in your browser. Type any sentence and watch entities highlight l
 
 ## Retraining from scratch
 
-The full pipeline — dataset loading, IOB tagging, GloVe embeddings, vocabulary building, all four model architectures, and evaluation — is in `notebook.ipynb`. It's designed to run on **Kaggle with a GPU (T4)** end to end:
+The full pipeline — dataset loading, IOB tagging, GloVe embeddings, vocabulary building, all four model architectures, and evaluation — is in `named-entity-recognition.ipynb`. It's designed to run on **Kaggle with a GPU (T4)** end to end:
 
 1. Enable GPU: Settings → Accelerator → GPU T4
 2. Enable internet: Settings → Internet → On
